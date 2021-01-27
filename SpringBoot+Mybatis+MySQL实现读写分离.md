@@ -531,8 +531,7 @@ public class UserController {
 
 ![image-20210127114201314](https://i.loli.net/2021/01/27/5obZh49gB1AkiEc.png)
 
-
-
+代码可以在我的github上查看：https://github.com/loimh/mysqlSlaveMaster
 
 
 如果项目启动出错，请查看启动类是否配置了@SpringBootApplication(exclude= {DataSourceAutoConfiguration.class})
